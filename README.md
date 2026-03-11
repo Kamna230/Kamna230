@@ -1,36 +1,30 @@
-<h1 align="center">Hi, I'm Kamna Singh 👋</h1>
-<h3 align="center">WordPress Developer · PHP · AI-Assisted Development · Python</h3>
+# Hi, I'm Kamna Singh 👋
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/kamna-singh-b0339523a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:singhkamna2323@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Kamna230">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+### WordPress Developer · PHP · AI-Assisted Development · Python
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamna-singh-b0339523a/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singhkamna2323@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kamna230)
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 B.Tech in Computer Science & Engineering — United College of Engineering and Research, Prayagraj (2021–2025)
-- 💼 Fresher WordPress Developer — actively looking for opportunities
-- 🤖 I use **AI tools** (GitHub Copilot, ChatGPT) as part of my daily dev workflow — faster builds, cleaner code
-- 🐍 Python certified — I bridge Python scripting with WordPress automation & REST API integrations
+- 🎓 B.Tech CSE — United College of Engineering and Research, Prayagraj (2021–2025)
+- 💼 WordPress Developer — actively looking for opportunities
+- 🤖 I use **GitHub Copilot & ChatGPT** in my daily dev workflow — faster builds, cleaner code
+- 🐍 Python certified — I automate WordPress tasks using REST API + Python scripts
 - 🏆 **Runner-Up at UHack 2.0** (20-hour national hackathon)
 - 🥇 **Top 70 at HackFest 24** — IIT (ISM) Dhanbad (36-hour national competition)
-- 📍 Based in Uttar Pradesh, India
+- 📍 Uttar Pradesh, India
 - 📫 Reach me: **singhkamna2323@gmail.com**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### WordPress & Web
+**WordPress & Web**
+
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
@@ -39,38 +33,41 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Backend & Database
+**Backend & Database**
+
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### AI & Tools
+**AI & Tools**
+
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ---
 
 ## 🚀 Projects
 
 ### 🌐 [WordPress Portfolio Theme](https://github.com/Kamna230/wordpress-portfolio-theme)
-> Custom WordPress theme built from scratch — no page builders, pure PHP + CSS
-- Custom theme structure with WordPress Loop, dynamic templates, and responsive layout
-- Built using AI-assisted development workflow (GitHub Copilot)
-- **Stack:** WordPress, PHP, HTML5, CSS3, JavaScript, MySQL
+Custom WordPress theme built from scratch — no page builders, pure PHP + CSS.
+Built using AI-assisted development workflow with GitHub Copilot.
+
+`WordPress` `PHP` `HTML5` `CSS3` `JavaScript` `MySQL`
+
+---
 
 ### 🛒 [WooCommerce Store Theme](https://github.com/Kamna230/woocommerce-store)
-> Fully functional WooCommerce-powered e-commerce store with custom PHP templates
-- Custom product pages, cart, and checkout flow using WooCommerce hooks & filters
-- Mobile-first responsive design with Elementor compatibility
-- **Stack:** WordPress, WooCommerce, PHP, CSS3, MySQL
+WooCommerce-powered e-commerce store with custom PHP hooks, filters, and responsive templates.
+
+`WordPress` `WooCommerce` `PHP` `CSS3` `MySQL`
+
+---
 
 ### 🤖 [WordPress Python Automation](https://github.com/Kamna230/wp-python-automation)
-> Python script that automates WordPress content via REST API
-- Automates post creation, category assignment, and media upload
-- Bridges Python scripting skills with real-world WordPress site management
-- **Stack:** Python, WordPress REST API, JSON, requests
+Python CLI tool to automate WordPress content via REST API — create posts, bulk import, upload media.
+
+`Python` `WordPress REST API` `JSON` `requests`
 
 ---
 
@@ -92,26 +89,20 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kamna230&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamna230&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+![Kamna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kamna230&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kamna230&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 🌱 Currently Building
 
-- 🔧 Custom WordPress portfolio theme (from scratch, no page builders)
+- 🔧 Custom WordPress portfolio theme (no page builders)
 - 🛒 WooCommerce product store with custom PHP templates
-- 🤖 Python automation script for WordPress REST API integration
+- 🤖 Python automation for WordPress REST API
 
 ---
 
-<p align="center">
-  <i>"Building faster with AI. Shipping cleaner with code."</i>
-</p>
+> *"Building faster with AI. Shipping cleaner with code."*
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kamna230&color=blueviolet&style=flat-square&label=Profile+Views" />
-</p>
-
+![Profile Views](https://komarev.com/ghpvc/?username=Kamna230&color=blueviolet&style=flat-square&label=Profile+Views)
