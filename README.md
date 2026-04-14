@@ -95,11 +95,11 @@ Python CLI tool to automate WordPress content via REST API — create posts, bul
 
 ---
 
-## 🌱 Currently Building
+## 🚀 Recently Shipped
 
-- 🔧 Custom WordPress portfolio theme (no page builders)
-- 🛒 WooCommerce product store with custom PHP templates
-- 🤖 Python automation for WordPress REST API
+- 🔧 **[WordPress Portfolio Theme](https://github.com/Kamna230/wordpress-portfolio-theme)** — Custom theme from scratch: dark mode, typewriter hero, project filter, CPT + taxonomy, Customizer integration
+- 🛒 **[WooCommerce Store Theme](https://github.com/Kamna230/woocommerce-store)** — Full WC integration: AJAX mini-cart, toast notifications, free shipping logic, custom hooks & filters
+- 🤖 **[WordPress Python Automation](https://github.com/Kamna230/wp-python-automation)** — Python CLI to manage WP via REST API: create posts, bulk import CSV, upload media, site stats with ASCII chart
 
 ---
 
